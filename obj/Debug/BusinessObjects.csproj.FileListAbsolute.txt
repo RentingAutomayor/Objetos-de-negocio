@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\BusinessObjects\bin\Debug\BusinessObjects.dll
+C:\Users\asus\source\repos\BusinessObjects\bin\Debug\BusinessObjects.pdb
+C:\Users\asus\source\repos\BusinessObjects\obj\Debug\BusinessObjects.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\BusinessObjects\obj\Debug\BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\BusinessObjects\obj\Debug\BusinessObjects.dll
+C:\Users\asus\source\repos\BusinessObjects\obj\Debug\BusinessObjects.pdb
+D:\RentingAutomayor\BusinessObjects\bin\Debug\BusinessObjects.dll
+D:\RentingAutomayor\BusinessObjects\bin\Debug\BusinessObjects.pdb
+D:\RentingAutomayor\BusinessObjects\obj\Debug\BusinessObjects.csprojAssemblyReference.cache
+D:\RentingAutomayor\BusinessObjects\obj\Debug\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\RentingAutomayor\BusinessObjects\obj\Debug\BusinessObjects.dll
+D:\RentingAutomayor\BusinessObjects\obj\Debug\BusinessObjects.pdb
